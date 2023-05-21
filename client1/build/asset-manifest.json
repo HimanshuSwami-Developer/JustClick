@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4e02989.css",
+    "main.js": "/static/js/main.cdddeb0c.js",
+    "static/media/cover.jfif": "/static/media/cover.e2edeab17643ab2951c0.jfif",
+    "static/media/productsimages.png": "/static/media/productsimages.e1da842f89bc02fe6aaf.png",
+    "static/media/Profile.png": "/static/media/Profile.697fdcd21f6d157b9073.png",
+    "static/media/playstore.png": "/static/media/playstore.82b4831979e0ce7c733e.png",
+    "static/media/shippingimage.png": "/static/media/shippingimage.42f13b7e7821db0c1a41.png",
+    "static/media/Appstore.png": "/static/media/Appstore.d0c5839937e3c36285f6.png",
+    "static/media/logo.png": "/static/media/logo.bbafad84ab8a2d2fdadd.png",
+    "index.html": "/index.html",
+    "main.c4e02989.css.map": "/static/css/main.c4e02989.css.map",
+    "main.cdddeb0c.js.map": "/static/js/main.cdddeb0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4e02989.css",
+    "static/js/main.cdddeb0c.js"
+  ]
+}
