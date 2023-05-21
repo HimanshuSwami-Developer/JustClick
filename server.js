@@ -14,6 +14,10 @@ if (process.env.NODE_ENV !== "PRODUCTION") {
   require("dotenv").config({ path: "backend/config/config.env" });
 }
 
+const dotenv = require("dotenv");
+
+dotenv.config();
+
 // Connecting to database
 connectDatabase();
 
@@ -25,6 +29,7 @@ cloudinary.config({
 
 const server = app.listen(process.env.PORT, () => {
   console.log(`Server is working on http://localhost:${process.env.PORT}`);
+  console.log(process.env.PORT)
 });
 
 // Unhandled Promise Rejection
